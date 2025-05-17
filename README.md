@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **ALINOS NETWORK**
 
-- 💬 Ask me about **LINUX**
+- 💬 Ask me about **Code**
 
 - 📫 How to reach me **masmarko117@engineer.com**
 
@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="https://github.com/alsiam">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adryan089&theme=radical" alt="Skydash.NET GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skydashnet&theme=radical" alt="Skydash.NET GitHub Contribution"/>
   </a>
 </p>
 
