@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="https://github.com/alsiam">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skydashnet&theme=radical" alt="Skydash.NET GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skydashnet&theme=2077" alt="Skydash.NET GitHub Contribution"/>
   </a>
 </p>
 
