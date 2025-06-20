@@ -20,14 +20,12 @@
 
 <p align="center">
 <details>
-  <summary>🔗 Quick Links</summary>
   <p>
     <a href="https://github.com/skydashnet"><img src="https://img.shields.io/badge/GitHub-skydashnet-181717?logo=github" alt="GitHub"/></a>
     <a href="https://alinosnet.cloud"><img src="https://img.shields.io/badge/Website-alinosnet.cloud-4AB197?logo=google-chrome" alt="Website"/></a>
     <a href="https://twitter.com/skydashnet"><img src="https://img.shields.io/badge/Twitter-%40skydashnet-1DA1F2?logo=twitter" alt="Twitter"/></a>
     <a href="https://stackoverflow.com/users/adryan-pintratama-amarcha"><img src="https://img.shields.io/badge/StackOverflow-Adryan--Pintratama--Amarcha-FE7A16?logo=stackoverflow" alt="StackOverflow"/></a>
   </p>
-</details>
 </p>
 
 ---
@@ -49,7 +47,7 @@
         🕸️<br/><strong>Network Engineer</strong><br/>Mikrotik | Cisco
       </td>
       <td align="center" width="200" style="border:2px solid #FFEA00; padding:12px; border-radius:8px;">
-        🎮<br/><strong>Web Developer</strong><br/>Unity | Node.js
+        🎮<br/><strong>Web Developer</strong><br/> Tailwind | Node.js
       </td>
       <td align="center" width="200" style="border:2px solid #FF006E; padding:12px; border-radius:8px;">
         🐍<br/><strong>Code Automation</strong><br/>Python | Node.js
