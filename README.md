@@ -11,7 +11,6 @@
     <a href="https://github.com/skydashnet"><img src="https://img.shields.io/github/followers/skydashnet?label=Follow&style=social" alt="GitHub Follow"/></a>
     <a href="https://twitter.com/skydashnet"><img src="https://img.shields.io/twitter/follow/skydashnet?style=social" alt="Twitter Follow"/></a>
     <a href="https://stackoverflow.com/users/adryan-pintratama-amarcha"><img src="https://img.shields.io/badge/StackOverflow-Adryan--Pintratama--Amarcha-FE7A16?logo=stackoverflow" alt="StackOverflow"/></a>
-    <img src="https://img.shields.io/github/languages/top/skydashnet?label=Top%20Language&logo=github" alt="Top Language"/>
     <img src="https://komarev.com/ghpvc/?username=skydashnet&color=brightgreen" alt="Profile views"/>
   </p>
 </div>
