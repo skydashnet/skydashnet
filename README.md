@@ -7,20 +7,28 @@
 <div align="center">
   <h1>✨ Skydash.NET ✨</h1>
   <p><em>Dare to be Different</em></p>
+  <p>
+    <a href="https://github.com/skydashnet"><img src="https://img.shields.io/github/followers/skydashnet?label=Follow&style=social" alt="GitHub Follow"/></a>
+    <a href="https://twitter.com/skydashnet"><img src="https://img.shields.io/twitter/follow/skydashnet?style=social" alt="Twitter Follow"/></a>
+    <a href="https://stackoverflow.com/users/adryan-pintratama-amarcha"><img src="https://img.shields.io/badge/StackOverflow-Adryan--Pintratama--Amarcha-FE7A16?logo=stackoverflow" alt="StackOverflow"/></a>
+    <a href="https://github.com/skydashnet?tab=languages"><img src="https://img.shields.io/github/languages/count/skydashnet?color=blue" alt="Languages Count"/></a>
+    <img src="https://komarev.com/ghpvc/?username=skydashnet&color=brightgreen" alt="Profile views"/>
+  </p>
 </div>
 
 ---
 
-<div align="center">
+<p align="center">
 <details>
   <summary>🔗 Quick Links</summary>
   <p>
-    <a href="https://github.com/skydashnet">🐙 GitHub</a> &bull;
-    <a href="https://alinosnet.cloud">🌐 Website</a> &bull;
-    <a href="https://twitter.com/skydashnet">🐦 Twitter</a>
+    <a href="https://github.com/skydashnet"><img src="https://img.shields.io/badge/GitHub-skydashnet-181717?logo=github" alt="GitHub"/></a>
+    <a href="https://alinosnet.cloud"><img src="https://img.shields.io/badge/Website-alinosnet.cloud-4AB197?logo=google-chrome" alt="Website"/></a>
+    <a href="https://twitter.com/skydashnet"><img src="https://img.shields.io/badge/Twitter-%40skydashnet-1DA1F2?logo=twitter" alt="Twitter"/></a>
+    <a href="https://stackoverflow.com/users/adryan-pintratama-amarcha"><img src="https://img.shields.io/badge/StackOverflow-Adryan--Pintratama--Amarcha-FE7A16?logo=stackoverflow" alt="StackOverflow"/></a>
   </p>
 </details>
-</div>
+</p>
 
 ---
 
@@ -38,10 +46,10 @@
   <table>
     <tr>
       <td align="center" width="200" style="border:2px solid #00FFBA; padding:12px; border-radius:8px;">
-        🕸️<br/><strong>Network Engineer</strong><br/>Mikrotik | Cisco 
+        🕸️<br/><strong>Network Engineer</strong><br/>Mikrotik | Cisco
       </td>
       <td align="center" width="200" style="border:2px solid #FFEA00; padding:12px; border-radius:8px;">
-        🎮<br/><strong>Web Developer</strong><br/>Unity | NodeJS
+        🎮<br/><strong>Web Developer</strong><br/>Unity | Node.js
       </td>
       <td align="center" width="200" style="border:2px solid #FF006E; padding:12px; border-radius:8px;">
         🐍<br/><strong>Code Automation</strong><br/>Python | Node.js
@@ -65,16 +73,10 @@
     </tr>
     <tr>
       <td>🤖 <a href="https://github.com/skydashnet/skydash-monitoring">Monitoring Dashboard for Mikrotik</a></td>
-      <td>Javascript</td>
+      <td>JavaScript</td>
     </tr>
   </table>
 </div>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=skydashnet&color=brightgreen" alt="Profile views"/>
-</p>
 
 ---
 
