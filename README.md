@@ -37,10 +37,10 @@
         🕸️<br/><strong>Network Engineer</strong><br/>Mikrotik | Cisco
       </td>
       <td align="center" width="200" style="border:2px solid #FFEA00; padding:12px; border-radius:8px;">
-        🎮<br/><strong>Web Developer</strong><br/> Tailwind | Node.js
+        🎮<br/><strong>Web Developer</strong><br/> Golang | NextJS
       </td>
       <td align="center" width="200" style="border:2px solid #FF006E; padding:12px; border-radius:8px;">
-        🐍<br/><strong>Code Automation</strong><br/>Python | Node.js
+        🐍<br/><strong>Code Automation</strong><br/>Python | NodeJS
       </td>
     </tr>
   </table>
