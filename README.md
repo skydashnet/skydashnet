@@ -1,4 +1,6 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=27&color=E056FD&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+Skydash.NET;Web+Developer;Network+Engineer)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Node+Validator;Full-Stack+Developer;Open+Source+Contributor" alt="Typing SVG">
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="200" alt="Confetti Animation"/>
@@ -8,21 +10,13 @@
   <h1>✨ Skydash.NET ✨</h1>
   <p><em>Dare to be Different</em></p>
   <p>
-    <a href="https://github.com/skydashnet"><img src="https://img.shields.io/github/followers/skydashnet?label=Follow&style=social" alt="GitHub Follow"/></a>
-    <a href="https://twitter.com/skydashnet"><img src="https://img.shields.io/twitter/follow/skydashnet?style=social" alt="Twitter Follow"/></a>
-    <a href="https://stackoverflow.com/users/adryan-pintratama-amarcha"><img src="https://img.shields.io/badge/StackOverflow-Adryan--Pintratama--Amarcha-FE7A16?logo=stackoverflow" alt="StackOverflow"/></a>
-    <img src="https://komarev.com/ghpvc/?username=skydashnet&color=brightgreen" alt="Profile views"/>
+    <a href="https://github.com/skydashnet"><img src="https://img.shields.io/github/followers/skydashnet?label=Follow&style=for-the-badge" alt="GitHub Follow"/></a>
+    <a href="mailto:masmarko117@engineer.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://twitter.com/skydashnet"><img src="https://img.shields.io/badge/Twitter-%40skydashnet-1DA1F2?logo=twitter&style=for-the-badge" alt="Twitter"/></a>
+    <a href="https://stackoverflow.com/users/skydash-net"><img src="https://img.shields.io/badge/StackOverflow-Skydash--NET-FE7A16?logo=stackoverflow&style=for-the-badge" alt="StackOverflow"/></a>
+    <a href="https://github.com/skydashnet"><img src="https://komarev.com/ghpvc/?username=skydashnet&color=6366F1&style=for-the-badge" alt="Profile Views"></a>
   </p>
 </div>
-
----
-
-<p align="center">
-    <a href="https://github.com/skydashnet"><img src="https://img.shields.io/badge/GitHub-skydashnet-181717?logo=github" alt="GitHub"/></a>
-    <a href="https://alinosnet.cloud"><img src="https://img.shields.io/badge/Website-alinosnet.cloud-4AB197?logo=google-chrome" alt="Website"/></a>
-    <a href="https://twitter.com/skydashnet"><img src="https://img.shields.io/badge/Twitter-%40skydashnet-1DA1F2?logo=twitter" alt="Twitter"/></a>
-    <a href="https://stackoverflow.com/users/adryan-pintratama-amarcha"><img src="https://img.shields.io/badge/StackOverflow-Adryan--Pintratama--Amarcha-FE7A16?logo=stackoverflow" alt="StackOverflow"/></a>
-</p>
 
 ---
 <h3 align="center">Languages and Tools:</h3>
