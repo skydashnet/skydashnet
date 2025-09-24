@@ -82,8 +82,8 @@
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="react logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="20" alt="nextjs logo"  /></td>
     </tr>
     <tr>
-      <td>🤖 <a href="https://github.com/skydashnet/skydash-monitoring">Monitoring Dashboard for Mikrotik using Vite</a></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="react logo"  /> <img src="https://skillicons.dev/icons?i=vite" height="20" alt="vite logo"  /></td>
+      <td>🤖 <a href="https://github.com/skydashnet/system-monitoring">Monitoring Dashboard for Linux Server using Elysia</a></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="20" alt="svelte logo"  /> <img src="https://skillicons.dev/icons?i=bun" height="20" alt="bun logo"  /></td>
     </tr>
   </table>
 </div>
